@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1709782731 source:c:\cursolinguagemc\exerciciosestruturadedadosunidimensionais\ex4bibliotecastring\ex4bibliotecastring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

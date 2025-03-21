@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709739433 source:c:\cursolinguagemc\exerciciosestruturadedadosunidimensionais\ex1strings\exstrings\main.c
+	<stdio.h>
+	<stdlib.h>
+

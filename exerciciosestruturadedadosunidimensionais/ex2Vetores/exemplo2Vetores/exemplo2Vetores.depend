@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709596940 source:c:\cursolinguagemc\exerciciosestruturadedadosunidimensionais\ex2vetores\exemplo2vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

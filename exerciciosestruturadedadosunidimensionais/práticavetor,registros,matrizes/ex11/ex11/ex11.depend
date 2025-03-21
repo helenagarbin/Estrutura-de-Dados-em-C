@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710170517 source:c:\cursolinguagemc\práticavetor,registros,matrizes\ex11\ex11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
