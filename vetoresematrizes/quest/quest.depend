@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720402059 source:c:\vetoresematrizes\quest\main.c
+	<stdio.h>
+	<stdlib.h>
+

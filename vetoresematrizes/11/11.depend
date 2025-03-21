@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1720025855 source:c:\vetoresematrizes\11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
